@@ -193,7 +193,7 @@ def format_search_results(results_df, success_msg=None):
 # ==========================================
 # --- 页面配置 ---
 st.set_page_config(
-    page_title="汽配套装平台_查询模块(更新时间：26年08_26)",
+    page_title="汽配套装平台_查询模块(更新时间：26/08_26)",
     page_icon="📦",
     layout="wide"
 )
