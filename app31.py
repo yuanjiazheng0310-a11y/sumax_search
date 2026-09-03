@@ -265,7 +265,7 @@ oem_len_map = precomputed_data.get("oem_len_map", {})
 # ==========================================
 with st.sidebar:
     st.header("📊 SUMAX查询平台📊")
-    st.header("📦注意：为了流畅使用/服务器需要重启和刷新缓存-请在早上9点后使用")
+    # st.header("📦注意：为了流畅使用/服务器需要重启和刷新缓存-请在早上9点后使用")
     ip_placeholder = st.empty()
     today_placeholder = st.empty()
     total_placeholder = st.empty()
